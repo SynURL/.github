@@ -1,7 +1,5 @@
-<span><a href="https://github.com/SynURL"><img align="left" width="15%" src="https://i.postimg.cc/xjzqWFVK/icon.png"></img></a><h1><strong>SynURL</strong> - <code>GitHub Pages</code></h1>
-
-<h4>静态网页，纯因为太乱所以单开个组织。| GitHub Pages, drop into this organization because too messy.</h4></span>
-
+<a href="https://github.com/SynURL"><img align="left" width="15%" src="https://i.postimg.cc/xjzqWFVK/icon.png"></img></a><h1><strong>SynURL</strong> - <code>GitHub Pages</code></h1>
+<h4>静态网页，纯因为太乱所以单开个组织。| GitHub Pages, drop into this organization because too messy.</h4>
 
 <table>
     <tr>
