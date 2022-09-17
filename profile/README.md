@@ -12,7 +12,7 @@
     </tr>
 	<tr>
         <td>
-            <span><img align="top" src="README/TitanRGB.png"  /> <a href='https://github.com/TitanRGB'>GitHub@TitanRGB</a> main account for some lite or new proj</span><br/>
+            <span><img align="top" src="profile/README/TitanRGB.png"  /> <a href='https://github.com/TitanRGB'>GitHub@TitanRGB</a> main account for some lite or new proj</span><br/>
 <span>  ┣━ <a href='https://github.com/TitanRGB/ESXiUnlocker'>TitanRGB/ESXiUnlocker</a> (fork) <img align="top" src="https://img.shields.io/github/stars/TitanRGB/ESXiUnlocker.svg" style="zoom:95%;padding-left:0;vertical-align:middle;display:inline-block;float: none;" /> <img align="top" src="https://img.shields.io/badge/-Python-3572A5" />【System Plugin】</span><br/>
 <span>  ┣━ <a href='https://github.com/TitanRGB/LogitechG502Reverse'>TitanRGB/LogitechG502Reverse</a> <img align="top" src="https://img.shields.io/github/stars/TitanRGB/LogitechG502Reverse.svg" style="zoom:95%;padding-left:0;vertical-align:middle;display:inline-block;float: none;" /> <img align="top" src="https://img.shields.io/badge/-Altium%20Designer-A89663" /> <img align="top" src="https://img.shields.io/badge/-LCEDA%20(EasyEDA)-5588ff" />【PCB Temp】</span><br/>
 <span>  ┣━ <a href='https://github.com/TitanRGB/PowerSupply_GWERP2U700_Modify'>TitanRGB/PowerSupply_GWERP2U700_Modify</a> <img align="top" src="https://img.shields.io/github/stars/TitanRGB/PowerSupply_GWERP2U700_Modify.svg" /> <img align="top" src="https://img.shields.io/badge/-Altium%20Designer-A89663" /> <img align="top" src="https://img.shields.io/badge/-LCEDA%20(EasyEDA)-5588ff" />【PCB & 3D Product】</span><br/>
